@@ -1,5 +1,5 @@
 # **Somake Lunáris Modpack**
-Criado com a inteção de disponibilizar um Modpack Otimizado e com modificações feitas especificadamente para os membros da Lua
+Criado com a inteção de disponibilizar um Modpack Otimizado e com modificações feitas especificadamente para os membros da Lua.
 
 ## Tópicos
 * [Informações Gerais](#Informações-Gerais)
@@ -11,7 +11,7 @@ Criado com a inteção de disponibilizar um Modpack Otimizado e com modificaçõ
 Projeto feito por Mik, Lipe e Light para a inteção de oferecer a Lua:
 * Modpack Otimizado
 * FPS Maior
-* Personalização Único
+* Personalização Única
 * Melhor Experiência dentro do Somake
 
 ## Objetivo
@@ -42,7 +42,7 @@ Baixando separadamente nos arquivos que estão disponíveis
 ## Redes Sociais
 Nos sigam!
 * @Litezin [Light Twitter](https://x.com/Lightzin4k)
-* @LipAazy [Lipe Twitter](https://x.com/LipeAzy)
+* @LipeAzy [Lipe Twitter](https://x.com/LipeAzy)
 * @Clairsee [Mik Twitter](https://x.com/shiverbanks)
 
 >[!NOTE]
