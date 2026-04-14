@@ -4,6 +4,8 @@ Criado com a inteção de disponibilizar um Modpack Otimizado e com modificaçõ
 ## Tópicos
 * [Informações Gerais](#Informações-Gerais)
 * [Objetivo](#Objetivo)
+* [Instalação](#Instalação)
+* [Redes Sociais](#Redes-Sociais)
 
 ## Informações Gerais
 Projeto feito por Mik, Lipe e Light para a inteção de oferecer a Lua:
@@ -21,12 +23,15 @@ Utilizaremos de nosso conhecimento para fornecer tanto modificações em Modelos
 
 ## Instalação
 Iremos disponibilizar três maneiras de baixar a Personalização.
+
 ```
 Disponibilizaremos o arquivo para uso no Modrinth
 ```
+
 ```
 Disponibilizaremos o arquivo para uso no Curseforge
 ```
+
 ```
 Baixando separadamente nos arquivos que estão disponíveis
 ```
@@ -34,5 +39,12 @@ Baixando separadamente nos arquivos que estão disponíveis
 >[!TIP]
 >Recomendamos o uso da Terceira opção, por acreditarmos que você já possui um Modpack em uso. Assim, possibilidade a customização sem a mudança de Modpack inteiramente
 
-[^1]: Esse repositório foi criado para a Intenção de Ajudar nossos amigos e melhorar nossa experiência jogando tal Modpack
-[^2]: Amamos vocês Lua :hearts:
+## Redes Sociais
+Nos sigam!
+* @Litezin [Light Twitter](https://x.com/Lightzin4k)
+* @LipAazy [Lipe Twitter](https://x.com/LipeAzy)
+* @Clairsee [Mik Twitter](https://x.com/shiverbanks)
+
+>[!NOTE]
+>Esse repositório foi criado para a Intenção de Ajudar nossos amigos e melhorar nossa experiência jogando tal Modpack
+>Amamos vocês Lua :hearts:
