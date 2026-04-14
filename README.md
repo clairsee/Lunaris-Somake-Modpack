@@ -43,7 +43,7 @@ Baixando separadamente nos arquivos que estão disponíveis
 Nos sigam!
 * @Litezin [Light Twitter](https://x.com/Lightzin4k)
 * @LipeAzy [Lipe Twitter](https://x.com/LipeAzy)
-* @Clairsee [Mik Twitter](https://x.com/shiverbanks)
+* @clairsee [Mik Twitter](https://x.com/shiverbanks)
 
 >[!NOTE]
 >Esse repositório foi criado para a Intenção de Ajudar nossos amigos e melhorar nossa experiência jogando tal Modpack
